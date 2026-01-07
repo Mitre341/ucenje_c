@@ -2,6 +2,7 @@
 
 int main(void)
 {
+
 char letra;
 letra = 'a';
 while(letra <= 'z')
